@@ -1,4 +1,4 @@
-## Hi there 👋
+## 你好，我是 Clerimia 👋
 
 <!--
 **clerimia/clerimia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 关于我
+- 目标成为全栈开发工程师，了解Java生态和前端技术
+- 目前正在深入学习AIGC
+- 联系方式：1525258693@qq.com
+
+### 技术栈
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
