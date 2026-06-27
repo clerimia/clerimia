@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 联系方式：1525258693@qq.com
 
 ### 技术栈
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node LTS](https://img.shields.io/node/v-lts/:packageName)
