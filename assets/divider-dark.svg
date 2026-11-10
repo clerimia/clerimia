@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="52" viewBox="0 0 1080 52" aria-hidden="true">
+<g color="#a9d8b4" fill="none">
+  <path d="M 28 26 H 512" stroke="#66786c" stroke-opacity="0.4" stroke-linecap="round"/>
+  <path d="M 568 26 H 1052" stroke="#66786c" stroke-opacity="0.4" stroke-linecap="round"/>
+  <g transform="translate(540 26)">
+    <path d="M 0 6 L 0 -6" stroke="currentColor" stroke-opacity="0.6" stroke-width="1.6" stroke-linecap="round"/>
+    <g transform="translate(0 -6)" opacity="0.9"><g transform="rotate(-45.00) scale(1.800)"><path d="M0 0 Q1.5 -1.05 3 0" fill="none" stroke="currentColor" stroke-width="0.8" stroke-linecap="round" opacity="0.85"/><g transform="translate(3 0)"><path d="M0 0 C1.33 -4.02 6.12 -6.28 13.3 -0.64 C8.78 2.74 3.19 4.02 0 0 Z" fill="currentColor" opacity="0.75"/><path d="M0.67 0 C4.65 -1.29 8.65 -0.97 12.5 -0.08" fill="none" stroke="currentColor" stroke-width="0.34" stroke-linecap="round" opacity="0.55"/></g></g></g>
+    <g transform="translate(0 -6) scale(-1 1)" opacity="0.55"><g transform="rotate(-45.00) scale(1.450)"><path d="M0 0 Q1.5 -1.05 3 0" fill="none" stroke="currentColor" stroke-width="0.8" stroke-linecap="round" opacity="0.85"/><g transform="translate(3 0)"><path d="M0 0 C1.33 -4.02 6.12 -6.28 13.3 -0.64 C8.78 2.74 3.19 4.02 0 0 Z" fill="currentColor" opacity="0.75"/><path d="M0.67 0 C4.65 -1.29 8.65 -0.97 12.5 -0.08" fill="none" stroke="currentColor" stroke-width="0.34" stroke-linecap="round" opacity="0.55"/></g></g></g>
+    <circle cx="0" cy="8" r="1.6" fill="currentColor" opacity="0.55"/>
+  </g>
+</g>
+</svg>
